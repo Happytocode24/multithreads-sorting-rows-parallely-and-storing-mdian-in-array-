@@ -1,1 +1,1 @@
-# multithreads-sorting-rows-parallely-and-storing-mdian-in-array-
+# multithreads-sorting-each-rows
